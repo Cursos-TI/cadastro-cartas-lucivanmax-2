@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Desafio Super Trunfo - Países
-// Tema 2 - Desenvolvendo a Lógica do Jogo - nível novato
+// Tema 3 - Desenvolvendo a Lógica do Jogo - nível novato
 
 int main() {
 
